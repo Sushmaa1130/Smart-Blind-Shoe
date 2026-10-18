@@ -2,7 +2,7 @@
 Arduino-based obstacle detection system using HC-SR04 ultrasonic sensor and buzzer.
 ## Overview
 
-This project uses an Arduino Uno, an HC-SR04 ultrasonic sensor, and a buzzer to detect nearby obstacles. When an obstacle is detected within 15 cm, the buzzer beeps five times to alert the user.
+This project uses an Arduino Uno, an HC-SR04 ultrasonic sensor, and a buzzer to detect nearby obstacles. When an obstacle is detected within 30 cm, the buzzer beeps five times to alert the user.
 
 ## Components Required
 
